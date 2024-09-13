@@ -3,4 +3,4 @@
 
 
 ## Competition Overview and Link
-[https://dacon.io/competitions/official/236323/overview/description]
+https://dacon.io/competitions/official/236323/overview/description
