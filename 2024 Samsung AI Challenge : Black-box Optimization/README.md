@@ -2,7 +2,7 @@
 
 
 
-## Competition Overview and [Link]https://dacon.io/competitions/official/236323/overview/description)
+## Competition Overview and [Link](https://dacon.io/competitions/official/236323/overview/description)
 Using the values of input variables x0 through x10, we identify the top 10% of the predicted target variable y. Then, we measure and evaluate how many of these top 10% predicted values actually fall within the top 5% of the true target values.
 
 ## Results
